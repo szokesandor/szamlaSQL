@@ -1,5 +1,5 @@
 # OTP szamlaforgalom sqlite adatbázisba
-Copyright (C) 2019 [SZŐKE, Sándor](mail@szokesandor.hu)
+Copyright (C) 2019 [SZŐKE, Sándor](mailto:mail@szokesandor.hu)
 
 Azért készült, hogy az OTP internetbank által xls-be exportált havi(!) számlaforgalmat be lehessen emelni (sqlite) adatbázisba. Ezzel könnyebben kezelhetőbbé válik a forgalom elemzése. 
 
